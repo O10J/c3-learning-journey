@@ -1,4 +1,4 @@
-# Osg-Junue's C3 Learning Repository (AI Coaching Model)
+# Osg-Junue's C3 Learning Repository
 
 このリポジトリは、AIを**学習コーチ**として活用し、**「Concept, Conversation, Craft」**のサイクルを通じて学習効果を最大化するための中央ハブです。
 
