@@ -1,4 +1,4 @@
-# Osg-Junue's C3 Learning Repository
+# Osg-Junue's C3 Learning Framework Repository
 
 このリポジトリは、AIを**対話コーチ**と**専門レビュアー**として活用し、**Concept, Conversation, Craft**のサイクルを通じて学習効果を最大化するための中央ハブです。
 

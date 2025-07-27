@@ -1,4 +1,4 @@
-# C3（Concept, Conversation, Craft）学習コンセプト
+# C3（Concept, Conversation, Craft）学習フレームワークコンセプト
 
 この学習法は、AIを**対話コーチ**と**専門レビュアー**という2つの明確な役割に分離して活用し、学習効果を最大化することを目的とします。
 
